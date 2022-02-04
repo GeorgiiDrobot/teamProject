@@ -1,1 +1,1 @@
-# teamProject
+# HomeGuru Mobile Application
