@@ -6,7 +6,7 @@ Tech Stack: Flutter, Dart, Firebase
 
 Milestones:
 
-1.set up all techstack, create figma prototype 2.Create first screens(get started, registration page, homepage) 3.Create product page screen(set up API and connect to product page) 4.Create Detailed Product Screen 5.Set up Firebase( connect with registration page )
+1.set up all techstack, create figma prototype 2.Create first screens(get started, registration page, homepage) 3.Create product page screen(create items in Firebase and connect to product page) 4.Create Detailed Product Screen 5.Firebase( connect with registration page )
 
 Project description:
 
