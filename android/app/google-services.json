@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "382963663974",
+    "project_id": "homeguru-c523c",
+    "storage_bucket": "homeguru-c523c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382963663974:android:a483246e0a0eca249199a7",
+        "android_client_info": {
+          "package_name": "com.example.home_guru_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382963663974-qccva8n44jv47ti40s50amo5vk4uhi51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASkXnYZ1XxcazGVr9VNTTz305vHpcoX7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382963663974-qccva8n44jv47ti40s50amo5vk4uhi51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
