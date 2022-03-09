@@ -11,8 +11,10 @@ class CatalogScreen extends StatelessWidget {
                 crossAxisCount: 2, childAspectRatio: 1),
             itemCount: 2,
             itemBuilder: (BuildContext context, int index) {
-              return Center(
-                child: Container(
+              return Column(children: [
+                SizedBox(height: 20,),
+                
+                Container(
                   child: Padding(
                     padding: const EdgeInsets.only(top: 120.0),
                   ),
@@ -30,7 +32,7 @@ class CatalogScreen extends StatelessWidget {
                   width: 150,
                   height: 150,
                 ),
-              );
+              ]);
             }));
   }
 }
